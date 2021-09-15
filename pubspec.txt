@@ -1,0 +1,13 @@
+dependencies:
+  carousel_slider: ^4.0.0
+
+assets:
+    - assets/img/
+
+  fonts:
+    - family: p
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+    - family: pBold
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
